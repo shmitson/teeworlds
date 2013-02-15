@@ -8,6 +8,3 @@ arising from the use of this software.
 
 Please visit http://www.teeworlds.com for up-to-date information about 
 the game, including new versions, custom maps and much more.
-
-
-*test change*
